@@ -37,4 +37,4 @@
 Hi! I love making games, animating, and working with awesome teams. My vibe is all about learning, having fun, and motivating myself and others to build cool stuff!
 
 ### 📺 Find me on
-- [YouTube]((https://www.youtube.com/@NoobJoon-is-real))
+- [YouTube](https://www.youtube.com/@NoobJoon-is-real)
