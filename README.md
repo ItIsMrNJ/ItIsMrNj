@@ -43,7 +43,7 @@ Game Developer • Programmer • Designer
 * 🎮 Building games with C++
 * 🦆 Developing **GoldDuck Engine**
 * 🧠 Learning Computer Science
-* 🚀 Becoming a Polyglot Programmer
+* 🚀 Becoming a Senior C++ Developer
 
 ---
 
