@@ -62,6 +62,11 @@ Game Developer • Programmer • Designer
 https://www.youtube.com/@NoobJoon-is-real
 
 ---
+## 🎮 Itch.io
+
+https://itsmrnj.itch.io/
+
+---
 
 <p align="center">
 ⭐ Thanks for visiting my profile!
