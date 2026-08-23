@@ -1,8 +1,4 @@
-<h1 align="center">👋 Hi, I'm AmirAli (NoobJoon)</h1>
-
-<p align="center">
-Game Developer • Programmer • Designer
-</p>
+<h1 align="center">👋 Hi, I'm AmirAli</h1>
 
 <p align="center">
 <i>"Stay motivated, keep creating."</i>
