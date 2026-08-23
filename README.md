@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I'm AmirAli</h1>
 
-<p align="center">
-<i>"Stay motivated, keep creating."</i>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
