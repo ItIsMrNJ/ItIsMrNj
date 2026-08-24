@@ -31,7 +31,7 @@ Currently building **GoldDuck**, a game engine, and its dedicated language **Qua
 
 ### Links
 
-- YouTube: [NoobJoon ~ Persian channel](https://www.youtube.com/@NoobJoon-is-real)
+- YouTube: [NoobJoon](https://www.youtube.com/@NoobJoon-is-real) ~ Persian channel
 - itch.io: [itsmrnj](https://itsmrnj.itch.io/)
 
 ---
