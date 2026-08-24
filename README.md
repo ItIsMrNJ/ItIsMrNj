@@ -8,13 +8,13 @@
 ### About Me
 
 I'm a C++ developer focused on game engines and systems programming.  
-Currently building **GoldDuck**, a game engine, and its dedicated language **Quack**.
+Currently building **GoldDuck**, a game engine, and its dedicated language **Quack**. 🦆
 
 ---
 
 ### Tech Stack
 
-- **Languages:** C++, Python, C#, JavaScript
+- **Languages:** C++, Python, JavaScript
 - **Engines & Tools:** Unity, Godot, Custom Engine Development
 - **Focus:** Game Engine Architecture, Systems Programming, Tooling
 
@@ -31,7 +31,7 @@ Currently building **GoldDuck**, a game engine, and its dedicated language **Qua
 
 ### Links
 
-- YouTube: [NoobJoon](https://www.youtube.com/@NoobJoon-is-real)
+- YouTube: [NoobJoon ~ Persian channel](https://www.youtube.com/@NoobJoon-is-real)
 - itch.io: [itsmrnj](https://itsmrnj.itch.io/)
 
 ---
