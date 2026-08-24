@@ -1,64 +1,41 @@
-<h1 align="center">👋 Hi, I'm AmirAli</h1>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ItIsMrNJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItIsMrNJ&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 💻 Languages & Tools
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="35"/>
+<h1 align="center">AmirAli</h1>
+<p align="center">
+  Creator of <strong>GoldDuck Engine</strong> & <strong>Quack</strong> Programming Language
 </p>
 
 ---
 
-## 🎯 Current Goals
+### About Me
 
-* 🎮 Building games with C++
-* 🦆 Developing **GoldDuck Engine**
-* 🧠 Learning Computer Science
-* 🚀 Becoming a Senior C++ Developer
+I'm a C++ developer focused on game engines and systems programming.  
+Currently building **GoldDuck**, a game engine, and its dedicated language **Quack**.
 
 ---
 
-## ❤️ Interests
+### Tech Stack
 
-* Game Development
-* Game Engine Programming
-* Software Development
-* Animation
-* Team Collaboration
+- **Languages:** C++, Python, C#, JavaScript
+- **Engines & Tools:** Unity, Godot, Custom Engine Development
+- **Focus:** Game Engine Architecture, Systems Programming, Tooling
 
 ---
 
-## 📺 YouTube
+### Current Focus
 
-https://www.youtube.com/@NoobJoon-is-real
+- Developing **GoldDuck Engine**
+- Designing and implementing the **Quack** programming language
+- Building games and technical demos with C++
+- Improving low-level systems and engine architecture knowledge
 
-## 🎮 Itch.io
+---
 
-https://itsmrnj.itch.io/
+### Links
+
+- YouTube: [NoobJoon](https://www.youtube.com/@NoobJoon-is-real)
+- itch.io: [itsmrnj](https://itsmrnj.itch.io/)
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+  Thanks for stopping by.
 </p>
