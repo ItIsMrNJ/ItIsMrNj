@@ -32,7 +32,7 @@ Currently building **GoldDuck**, a custom game engine, and its dedicated languag
 ### Links
 
 - YouTube (Persian): [NoobJoon](https://www.youtube.com/@NoobJoon-is-real)
-- YouTube (Dev): [NoobJoon is Dev](https://www.youtube.com/@NoobJoon-is-Dev)
+- YouTube (Dev): [NoobDev](https://www.youtube.com/@NoobJoon-is-Dev)
 - itch.io: [itsmrnj](https://itsmrnj.itch.io/)
 
 ---
