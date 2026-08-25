@@ -8,7 +8,7 @@
 ### About Me
 ```
 C++ developer focused on game engines and systems programming.  
-Currently building **GoldDuck**, a custom game engine, and its dedicated language **Quack**.
+Currently building GoldDuck, a custom game engine, and its dedicated language Quack.
 ```
 ---
 
